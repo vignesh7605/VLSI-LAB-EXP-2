@@ -78,7 +78,8 @@ endmodule
 
 **LOGIC DIAGRAM:**
 
-![image](https://github.com/vignesh7605/VLSI-LAB-EXP-2/assets/160568690/1246c653-d23e-4a65-9062-14f8c7f8a5f0)
+![image](https://github.com/vignesh7605/VLSI-LAB-EXP-2/assets/160568690/c0c003aa-3150-4134-8c34-be3b6f0f8998)
+
 
 
 **VERILOG CODE:**
@@ -93,7 +94,7 @@ endmodule
 
 **OUTPUT:**
 
-![image](https://github.com/vignesh7605/VLSI-LAB-EXP-2/assets/160568690/d631a9aa-63a1-4e35-a95f-31ad2fd6595f)
+![image](https://github.com/vignesh7605/VLSI-LAB-EXP-2/assets/160568690/eb799c16-402f-4a2c-b1c1-b6630e18c7d4)
 
 
 **DEMULTIPLEXER:**
