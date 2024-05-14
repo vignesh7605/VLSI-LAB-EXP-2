@@ -78,7 +78,7 @@ endmodule
 
 **LOGIC DIAGRAM:**
 
-![image](https://github.com/vignesh7605/VLSI-LAB-EXP-2/assets/160568690/86054c60-b001-4aba-813f-04d0efabda5d)
+![image](https://github.com/vignesh7605/VLSI-LAB-EXP-2/assets/160568690/1246c653-d23e-4a65-9062-14f8c7f8a5f0)
 
 
 **VERILOG CODE:**
